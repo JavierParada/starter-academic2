@@ -24,7 +24,7 @@ interests:
 education:
   courses:
   - course: PhD in Agricultural and Resource Economics
-    institution: UC Davis
+    institution: [UC Davis](https://are.ucdavis.edu)
     year: 2018
   - course: MS in Economics
     institution: Centro de Investigación y Docencia Económicas
