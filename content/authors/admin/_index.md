@@ -6,7 +6,7 @@ title: Javier Parada
 superuser: true
 
 # Role/position
-role: Applied economist
+role: Applied Microeconomist
 
 # Organizations/Affiliations
 organizations:
@@ -14,12 +14,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an applied microeconomist specialized in the application of econometric methods for big data analysis. I am currently working on the application of remote sensing methods to measure changes in agricultural productivity due to violence and forced displacement in the Middle East. 
+bio: I am an applied microeconomist specialized in the application of econometric methods for big data analysis. I am currently working on the application of remote sensing methods to measure changes in agricultural productivity due to civil conflict and forced displacement in the Middle East. 
 
 interests:
 - Agricultural and Natural Resource Economics
 - Conflict and Forced Displacement 
-- Geographic information systems
+- Geographic Information Systems
 
 education:
   courses:
@@ -27,7 +27,7 @@ education:
     institution: UC Davis
     year: 2018
   - course: MS in Economics
-    institution: Centro de Investigacion y Docencia Economicas
+    institution: Centro de Investigación y Docencia Económicas
     year: 2010
   - course: BS in Financial Management
     institution: Tecnológico de Monterrey
@@ -40,13 +40,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:javoparada@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/javierparada/
 - icon: github
   icon_pack: fab
   link: https://github.com/JavierParada
