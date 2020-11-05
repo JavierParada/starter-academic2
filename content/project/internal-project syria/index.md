@@ -30,6 +30,8 @@ url_video: ""
 slides: example
 ---
 
-[Visualization tool](https://javierparada.github.io/)
+This project aims to assess the impact of the Syrian Civil War on cropland in both Syria and neighboring countries such as Turkey.
 
+Our empirical analysis employs large datasets constructed from [satellite imagery](https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MCD12Q1#bands) as well as georeferenced data on violence and population displacement from the [Uppsala Conflict Data Program](https://ucdp.uu.se). You may access an interactive version of our maps through our [visualization tool](https://javierparada.github.io/). 
 
+We find significant cropland abandonment on the Syrian side of the border, especially in Aleppo and Ar-Raqqah governorates. In parallel, the Turkish side gains similar amounts of cropland, especially in Sanliurfa and Mardin provinces.
