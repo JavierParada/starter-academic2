@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Experience"
+title = "Professional Experience"
 subtitle = ""
 
 # Date format for experience
@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.worldbank.org"
   location = "Washington, DC"
   date_start = "2020-07-01"
-  date_end = "2021-06-01"
+  date_end = ""
   description = """Fellows’ program in Forced Displacement sponsored by the DFID-UNHCR-World Bank program “Building the Evidence Building the Evidence on Protracted Forced Displacement: A Multi-Stakeholder Partnership”."""
 
 [[experience]]
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   * Construction, adjustment, and analysis of expenditures per capita for poverty and inequality measures
   * Study of asset ownership, gender, urban/rural, education, demographic, labor, and housing characteristics
   * Design and implementation of survey metadata collection tool to compare survey characteristics
-  * Preparation of Tableau visualizations and SARMD User Guidelines https://worldbank.github.io/SARMD_guidelines/
+  * Preparation of Tableau visualizations and [SARMD User Guidelines](https://worldbank.github.io/SARMD_guidelines/)  
   """
 
 +++
