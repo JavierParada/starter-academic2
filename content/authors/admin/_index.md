@@ -47,7 +47,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/JavierParada/
-  - icon: arrow-down
+- icon: arrow-down
   icon_pack: fab
   link: files/cv.pdf
 # Link to a PDF of your resume/CV from the About widget.
