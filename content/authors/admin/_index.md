@@ -11,7 +11,7 @@ role: Applied Microeconomist
 # Organizations/Affiliations
 organizations:
 - name: The World Bank
-  url: ""
+  url: "https://www.worldbank.org"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am an applied microeconomist specialized in the application of econometric methods for big data analysis. I am currently working on the application of remote sensing methods to measure changes in agricultural productivity due to civil conflict and forced displacement in the Middle East. 
@@ -42,7 +42,7 @@ social:
   icon_pack: fas
   link: 'mailto:javoparada@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
-  icon_pack: fab
+  icon_pack: fas
   link: https://www.linkedin.com/in/javierparada/
 - icon: github
   icon_pack: fab
