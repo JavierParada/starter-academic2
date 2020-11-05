@@ -38,6 +38,11 @@ subtitle = ""
   name = "GIS"
   description = ""  
 
+[[feature]]
+  icon = "globe-africa"
+  icon_pack = "fas"
+  name = "Google Earth Engine"
+  description = ""  
 
 # Uncomment to use emoji icons.
 # [[feature]]
