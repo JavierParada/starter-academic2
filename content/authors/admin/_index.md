@@ -49,7 +49,7 @@ social:
   link: https://github.com/JavierParada/
 - icon: arrow-down
   icon_pack: fas
-  link: files/cv.pdf
+  link: files/cv/Parada_CV_2020.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
@@ -70,4 +70,4 @@ Javier Parada is an applied microeconomist specialized in the application of eco
 
 Javier is looking to improve his project management skills and his ability to communicate his findings to a broader audience.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv/Parada_CV_2020.pdf" "newtab" >}}CV{{< /staticref >}}.
