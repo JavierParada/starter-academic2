@@ -30,7 +30,6 @@ url_video: ""
 slides: example
 ---
 
-Visualization tool
+[Visualization tool](https://javierparada.github.io/)
 
-https://javierparada.github.io/ 
 
