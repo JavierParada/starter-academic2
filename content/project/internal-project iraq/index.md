@@ -1,5 +1,5 @@
 ---
-title: Land Use Change induced by Conflict and Displacement along the Syria-Turkey border
+title: Land Use Change induced by Conflict and Displacement in Iraq
 summary: Assess the impact of conflict (Syrian Civil War) on land use
 tags:
 - Land Use Change
