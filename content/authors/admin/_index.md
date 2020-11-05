@@ -46,9 +46,9 @@ social:
   link: https://www.linkedin.com/in/javierparada/
 - icon: github
   icon_pack: fab
-  link: https://github.com/JavierParada
-- icon: cv
-  icon_pack: ai
+  link: https://github.com/JavierParada/
+  - icon: arrow-down
+  icon_pack: fab
   link: files/cv.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
