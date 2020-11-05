@@ -1,36 +1,36 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Javier Parada
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Applied economist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: The World Bank
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am an applied microeconomist specialized in the application of econometric methods for big data analysis. I am currently working on the application of remote sensing methods to measure changes in agricultural productivity due to violence and forced displacement in the Middle East. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Agricultural and Natural Resource Economics
+- Conflict and Forced Displacement 
+- Geographic information systems
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Agricultural and Resource Economics
+    institution: UC Davis
+    year: 2018
+  - course: MS in Economics
+    institution: Centro de Investigacion y Docencia Economicas
+    year: 2010
+  - course: BS in Financial Management
+    institution: Tecnológico de Monterrey
     year: 2008
 
 # Social/Academic Networking
@@ -49,7 +49,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/JavierParada
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Javier Parada is an applied microeconomist specialized in the application of econometric methods for big data analysis. His dissertation studied the impact of the rehabilitation of rural roads on farmers' access to markets. Javier’s research interests lie at the intersections of poverty, agricultural productivity, and international development. He is currently working on measuring land use changes in fragile countries with satellite imagery and is interested in measuring how violence affects agricultural productivity. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Javier looks to improve his project management skills and his ability to communicate his findings to a broader audience.
