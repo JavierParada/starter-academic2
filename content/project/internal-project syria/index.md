@@ -1,6 +1,6 @@
 ---
 title: Land Use Change induced by Conflict and Displacement along the Syria-Turkey border
-summary: Assess the impact of conflict (Syrian Civil War) on land use
+summary: Assess the impact of Syrian Civil War on land use
 tags:
 - Land Use Change
 date: "2020-11-04T00:00:00Z"
