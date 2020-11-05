@@ -32,6 +32,12 @@ subtitle = ""
   name = "Stata"
   description = ""  
 
+[[feature]]
+  icon = "map-marked"
+  icon_pack = "fas"
+  name = "GIS"
+  description = ""  
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
