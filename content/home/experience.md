@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Washington, DC"
   date_start = "2020-07-01"
   date_end = ""
-  description = """Fellows’ program in Forced Displacement sponsored by the DFID-UNHCR-World Bank program [Building the Evidence on Forced Displacement: A Multi-Stakeholder Partnership](https://www.worldbank.org/en/topic/fragilityconflictviolence/brief/building-the-evidence-on-forced-displacement-a-multi-stakeholder-partnership)."""
+  description = """Fellowship Program in Forced Displacement sponsored by the DFID-UNHCR-World Bank program [Building the Evidence on Forced Displacement: A Multi-Stakeholder Partnership](https://www.worldbank.org/en/topic/fragilityconflictviolence/brief/building-the-evidence-on-forced-displacement-a-multi-stakeholder-partnership)."""
 
 [[experience]]
   title = "South Asia Data Team"
