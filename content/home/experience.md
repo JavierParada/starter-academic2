@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Experience"
@@ -18,28 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "The World Bank"
-  company = ""
-  company_url = ""
+  title = "Postdoctoral researcher"
+  company = "The World Bank"
+  company_url = "https://www.worldbank.org"
   location = "Washington, DC"
-  date_start = "2020-09-01"
-  date_end = "2014-06-01"
-  description = """
-  Responsibilities include:
-  
-  * Analysing household surveys for the Latin American region
-  * Modelling trends of socioeconomic indicators
-  * Programming a Stata interface to keep version control and guarantee transparency and reproducibility of indicators
- 
-  """
+  date_start = "2020-07-01"
+  date_end = "2021-06-01"
+  description = """Fellows’ program in Forced Displacement sponsored by the DFID-UNHCR-World Bank program “Building the Evidence Building the Evidence on Protracted Forced Displacement: A Multi-Stakeholder Partnership”."""
 
 [[experience]]
-  title = "The World Bank"
-  company = ""
-  company_url = ""
+  title = "South Asia Data Team"
+  company = "The World Bank"
+  company_url = "https://www.worldbank.org"
   location = "Washington, DC"
-  date_start = "2011-01-01"
-  date_end = "2019-08-31"
-  description = """Economic study of the agricultural sector in Colombia's western plains"""
+  date_start = "2018-04-01"
+  date_end = "2020-06-30"
+  description = """
+  Responsibilities included:
+  
+  * Harmonization of household surveys and maintenance of South Asia Micro Database (SARMD)
+  * Construction, adjustment, and analysis of expenditures per capita for poverty and inequality measures
+  * Study of asset ownership, gender, urban/rural, education, demographic, labor, and housing characteristics
+  * Design and implementation of survey metadata collection tool to compare survey characteristics
+  * Preparation of Tableau visualizations and SARMD User Guidelines https://worldbank.github.io/SARMD_guidelines/
+  """
 
 +++
