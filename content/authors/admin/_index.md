@@ -70,4 +70,4 @@ Javier Parada is an applied microeconomist specialized in the application of eco
 
 Javier is looking to improve his project management skills and his ability to communicate his findings to a broader audience.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv/Parada_CV_2020.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download {{< staticref "files/cv/Parada_CV_2020.pdf" "newtab" >}}CV{{< /staticref >}}.
