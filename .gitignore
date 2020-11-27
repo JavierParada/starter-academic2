@@ -5,3 +5,11 @@
 /resources/
 public/
 .Rproj.user
+
+content/.DS_Store
+
+static/.DS_Store
+
+static/files/.DS_Store
+
+.DS_Store
