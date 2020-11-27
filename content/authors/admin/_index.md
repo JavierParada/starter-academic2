@@ -46,7 +46,7 @@ social:
   link: https://www.linkedin.com/in/javierparada/
 - icon: github
   icon_pack: fab
-  link: https://github.com/JavierParada/
+  link: https://github.com/JavierParada/Code-examples/
 - icon: arrow-down
   icon_pack: fas
   link: files/cv/Parada_CV_2020.pdf
