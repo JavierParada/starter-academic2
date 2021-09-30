@@ -1,0 +1,225 @@
+%-------------------------
+% Resume in Latex
+% Author : Jake Gutierrez
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+%   \textbf{\href{http://sourabhbajaj.com/}{\Large Sourabh Bajaj}} & Email : \href{mailto:sourabh@sourabhbajaj.com}{sourabh@sourabhbajaj.com}\\
+%   \href{http://sourabhbajaj.com/}{http://www.sourabhbajaj.com} & Mobile : +1-123-456-7890 \\
+% \end{tabular*}
+
+\begin{center}
+    \textbf{\Huge \scshape Javier Parada} \\ \vspace{1pt}
+    \href{mailto:jparada@worldbank.org}{\underline{jparada@worldbank.org}} $|$ 
+    \href{https://paradajavier.com}{\underline{website}} $|$ 
+    \href{https://linkedin.com/in/javierparada}{\underline{linkedin}} $|$
+    \href{https://github.com/JavierParada}{\underline{github}}
+\end{center}
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {University of California, Davis}{Davis, CA}
+      {PhD in Agricultural and Resource Economics}{2011 -- 2018}
+    \resumeSubheading
+      {Centro de Investigaci\'on y Docencia Econ\'omicas}{Mexico City, Mexico}
+      {MS in Economics}{2008 -- 2010}
+    \resumeSubheading
+      {Tecnol\'ogico de Monterrey, Campus Santa Fe}{Mexico City, Mexico}
+      {BS in Financial Management}{2004 -- 2008}
+  \resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+  
+      \resumeSubheading
+      {Junior Data Scientist}{May 2021 -- Present}
+      {The World Bank}{Washington, DC}
+      \resumeItemListStart
+        \resumeItem{Improving data, methods, documentation, and  dissemination of environment-related indicators in the World Development Indicators}
+        \resumeItem{Use of geospatial datasets to create novel environmental indicators for internal and external publication and dissemination, and contribute to research on alternative data sources for development indicators}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Postdoctoral researcher}{July 2020 -- April 2021}
+      {The World Bank}{Washington, DC}
+      \resumeItemListStart
+        \resumeItem{Fellowship Program in Forced Displacement sponsored by the DFID-UNHCR-World Bank program ``Building the Evidence on Forced Displacement: A Multi-Stakeholder Partnership"}
+        \resumeItem{Use of detailed georeferenced panel data on land use types to study transitions into and out of cropland in the Middle East}
+        %\resumeItem{Deliver two co-authored World Bank Policy Research Working Papers to be submitted to peer reviewed academic journals following publication in the World Bank series}
+      \resumeItemListEnd
+      
+     \resumeSubheading
+      {South Asia Data Team}{April 2018 -- June 2020}
+      {The World Bank}{Washington, DC}
+      \resumeItemListStart
+           \resumeItem{Household survey harmonization and maintenance of South Asia Micro Database (SARMD)}
+            \resumeItem{Construction, adjustment, and analysis of expenditures per capita for poverty and inequality measures}
+            \resumeItem{Study of asset ownership, gender, urban/rural, education, demographic, labor, and housing characteristics}
+            \resumeItem{Design and implementation of survey metadata collection tool to compare survey characteristics}
+            \resumeItem{Preparation of Tableau visualizations and SARMD User Guidelines}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------
+\section{Recent Projects}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{Land Use Change induced by Conflict and Displacement} $|$ \emph{Syria, Iraq, Turkey}}{July 2020 -- Present}
+          \resumeItemListStart
+            \resumeItem{Measure land use changes into and out of cropland with satellite imagery}
+            \resumeItem{Study the mechanisms linked to violence and population displacement behind those land use changes}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{Perceived Land Tenure Insecurity and Violence} $|$ \emph{Global}}{July 2020 -- Present}
+          \resumeItemListStart
+            \resumeItem{Compare levels of land tenure insecurity across countries based on Prindex data}
+            \resumeItem{Study interconnections between perceived tenure security and conflict}
+          \resumeItemListEnd     
+         \resumeProjectHeading
+          {\textbf{Changes in air quality during lockdown} $|$ \emph{East Asia}}{May 2020 -- June 2020}
+          \resumeItemListStart
+            \resumeItem{Measure changes in air pollution (Aerosol, CO, HCHO, NO2, Ozone, SO2) for largest metropolitan areas before, during and after COVID-19 lockdowns}
+          \resumeItemListEnd
+                  \resumeProjectHeading 
+         {\textbf{Urban Poverty Headcounts} $|$ \emph{Somalia}}{October 2019 -- February 2020}
+          \resumeItemListStart
+            \resumeItem{Estimate poverty rates for Somali cities relying on the combination of Somali High Frequency Survey 2017 and geospatial data}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+
+
+%
+%-----------PROGRAMMING SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: Stata, Python, R, Matlab, JavaScript, HTML/CSS, Git, R Shiny, Tableau, Flourish, Excel VBA} \\
+     \textbf{Libraries}{: pandas, geopandas, scikit-learn, numpy, matplotlib, pyplot, seaborn, leaflet, geemap} \\
+     \textbf{GIS Tools}{: QGIS, Google Earth Engine} \\
+    }}
+ \end{itemize}
+
+%-----------PROGRAMMING SKILLS-----------
+\section{Languages}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{English}{:  Full Professional} \\
+     \textbf{Spanish}{:  Native} \\
+     \textbf{French}{:  Limited Working} \\
+    }}
+ \end{itemize}
+
+
+%-------------------------------------------
+\end{document}

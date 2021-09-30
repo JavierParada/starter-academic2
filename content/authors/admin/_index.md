@@ -49,7 +49,7 @@ social:
   link: https://github.com/JavierParada/Code-examples/
 - icon: arrow-down
   icon_pack: fas
-  link: files/cv/Parada_CV_2020.pdf
+  link: files/cv/Parada_CV_2021.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
@@ -68,4 +68,4 @@ user_groups:
 
 I am an applied microeconomist specialized in the application of econometric methods for big data analysis. My [dissertation](files/poster.pdf) studies the impact of rural road rehabilitation on farmers' access to markets. My research interests lie at the intersections of geospatial analysis, agricultural productivity, and international development. I have experience in measuring land use changes in fragile countries with satellite imagery. I am interested in contributing to new applications of geospatial analysis as an alternative source for development and environmental indicators. 
 
-{{< icon name="download" pack="fas" >}} Download {{< staticref "files/cv/Parada_CV_2020.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download {{< staticref "files/cv/Parada_CV_2021.pdf" "newtab" >}}CV{{< /staticref >}}.
