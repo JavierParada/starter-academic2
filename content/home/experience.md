@@ -23,9 +23,9 @@ date_format = "Jan 2006"
   company = "The World Bank"
   company_url = "https://www.worldbank.org"
   location = "Washington, DC"
-  date_start = "2020-05-01"
+  date_start = "2021-05-01"
   date_end = ""
-  description = """Evaluate, document and automate data management and curation processes of environmental statistics in [World Development Indicators](https://datatopics.worldbank.org/world-development-indicators/)"""
+  description = """Evaluate, document and automate data management and curation processes of environmental statistics in [World Development Indicators](https://datatopics.worldbank.org/world-development-indicators/)."""
 
 [[experience]]
   title = "Postdoctoral researcher"
