@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   description = """Evaluate, document and automate data management and curation processes of environmental statistics in [World Development Indicators](https://datatopics.worldbank.org/world-development-indicators/)."""
 
 [[experience]]
-  title = "Postdoctoral researcher"
+  title = "Postdoctoral Researcher"
   company = "The World Bank"
   company_url = "https://www.worldbank.org"
   location = "Washington, DC"

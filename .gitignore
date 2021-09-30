@@ -13,3 +13,5 @@ static/.DS_Store
 static/files/.DS_Store
 
 .DS_Store
+
+.Rhistory
