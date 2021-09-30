@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  10 MAR 2021 10:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  30 SEP 2021 08:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -345,7 +345,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 146.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 147.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 217.
 
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -356,27 +355,29 @@ This may cause the page layout to be inconsistent, however.
 [1
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 217.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 225.
 
-(./Parada_CV_2020.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 217.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 217.
+[2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 225.
+ (./Parada_CV_2020.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 225.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 225.
 Package rerunfilecheck Info: File `Parada_CV_2020.out' has not changed.
 (rerunfilecheck)             Checksum: F55E0FC924FF7FDF75CC6BA976EF1350;234.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 217.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 225.
  ) 
 Here is how much of TeX's memory you used:
- 6879 strings out of 480608
- 103864 string characters out of 5903631
- 392231 words of memory out of 5000000
+ 6880 strings out of 480608
+ 103870 string characters out of 5903631
+ 393231 words of memory out of 5000000
  22650 multiletter control sequences out of 15000+600000
  537930 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,11n,45p,237b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,12n,45p,264b,510s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
@@ -384,10 +385,10 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr
 /local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Parada_CV_2020.pdf (1 page, 101520 bytes).
+Output written on Parada_CV_2020.pdf (2 pages, 102090 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
+ 79 PDF objects out of 1000 (max. 8388607)
+ 60 compressed objects within 1 object stream
+ 8 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
