@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   company_url = "https://www.worldbank.org"
   location = "Washington, DC"
   date_start = "2020-07-01"
-  date_end = ""
+  date_end = "2020-04-30"
   description = """Fellowship Program in Forced Displacement sponsored by the DFID-UNHCR-World Bank program [Building the Evidence on Forced Displacement: A Multi-Stakeholder Partnership](https://www.worldbank.org/en/programs/building-the-evidence-on-forced-displacement)."""
 
 [[experience]]
