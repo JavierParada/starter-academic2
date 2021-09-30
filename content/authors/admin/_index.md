@@ -66,8 +66,8 @@ user_groups:
 - Visitors
 ---
 
-Javier Parada is an applied microeconomist specialized in the application of econometric methods for big data analysis. His [dissertation](files/poster.pdf) studies the impact of rural road rehabilitation on farmers' access to markets. Javier’s research interests lie at the intersections of civil conflict, forced displacement, agricultural productivity, and international development. He is currently working on measuring land use changes in fragile countries with satellite imagery and is interested in measuring how violence affects agricultural productivity. 
+I am an applied microeconomist specialized in the application of econometric methods for big data analysis. My [dissertation](files/poster.pdf) studies the impact of rural road rehabilitation on farmers' access to markets. My research interests lie at the intersections of geospatial analysis, agricultural productivity, and international development. I have worked on measuring land use changes in fragile countries with satellite imagery and I am interested in contributing on how to use geospatial analysis as an alternative source for development and environmental indicators. 
 
-Javier is looking to improve his project management skills and his ability to communicate his findings to a broader audience.
+# Javier is looking to improve his project management skills and his ability to communicate his findings to a broader audience.
 
 {{< icon name="download" pack="fas" >}} Download {{< staticref "files/cv/Parada_CV_2020.pdf" "newtab" >}}CV{{< /staticref >}}.
