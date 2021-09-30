@@ -59,6 +59,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
+# Javier is looking to improve his project management skills and his ability to communicate his findings to a broader audience.
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
@@ -66,8 +67,6 @@ user_groups:
 - Visitors
 ---
 
-I am an applied microeconomist specialized in the application of econometric methods for big data analysis. My [dissertation](files/poster.pdf) studies the impact of rural road rehabilitation on farmers' access to markets. My research interests lie at the intersections of geospatial analysis, agricultural productivity, and international development. I have worked on measuring land use changes in fragile countries with satellite imagery and I am interested in contributing on how to use geospatial analysis as an alternative source for development and environmental indicators. 
-
-# Javier is looking to improve his project management skills and his ability to communicate his findings to a broader audience.
+I am an applied microeconomist specialized in the application of econometric methods for big data analysis. My [dissertation](files/poster.pdf) studies the impact of rural road rehabilitation on farmers' access to markets. My research interests lie at the intersections of geospatial analysis, agricultural productivity, and international development. I have experience in measuring land use changes in fragile countries with satellite imagery. I am interested in contributing to new applications of geospatial analysis as an alternative source for development and environmental indicators. 
 
 {{< icon name="download" pack="fas" >}} Download {{< staticref "files/cv/Parada_CV_2020.pdf" "newtab" >}}CV{{< /staticref >}}.
