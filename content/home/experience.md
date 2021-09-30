@@ -17,6 +17,16 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Junior Data Scientist"
+  company = "The World Bank"
+  company_url = "https://www.worldbank.org"
+  location = "Washington, DC"
+  date_start = "2020-05-01"
+  date_end = ""
+  description = """Evaluate, document and automate data management and curation processes of environmental statistics in [World Development Indicators](https://datatopics.worldbank.org/world-development-indicators/)"""
+
 [[experience]]
   title = "Postdoctoral researcher"
   company = "The World Bank"
